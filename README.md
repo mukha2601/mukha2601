@@ -1,10 +1,5 @@
 # 👋 Salom, men Muhammaddin
 
-💻 **Frontend Developer**  
-Vue.js | Nuxt.js | TypeScript | TailwindCSS  
-
----
-
 ## 🚀 Men haqimda
 - 🌱 Hozirda: **Nuxt 3** bilan ishlayapman  
 - 🎯 Maqsadim: zamonaviy, qulay va tezkor web ilovalar yaratish  
