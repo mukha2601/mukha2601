@@ -1,5 +1,3 @@
-# 👋 Salom, men Muhammaddin
-
 ## 🚀 Men haqimda
 - 🌱 Hozirda: **Nuxt 3** bilan ishlayapman  
 - 🎯 Maqsadim: zamonaviy, qulay va tezkor web ilovalar yaratish  
