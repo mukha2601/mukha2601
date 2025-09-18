@@ -1,4 +1,4 @@
-## 🚀 Men haqimda
+## 🙎🏻‍♂️ Men haqimda
 - 🌱 Hozirda: **Nuxt 3** bilan ishlayapman  
 - 🎯 Maqsadim: zamonaviy, qulay va tezkor web ilovalar yaratish  
 - 💡 Qiziqishlarim: Frontend, UI/UX, Open Source loyihalar  
@@ -10,6 +10,7 @@
 ![Nuxt](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
