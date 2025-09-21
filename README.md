@@ -13,7 +13,8 @@
 
 
 ## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukha2601&layout=compact&theme=radical)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukha2601&show_icons=true&theme=radical&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukha2601&layout=compact&theme=radical)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukha2601&show_icons=true&theme=radical&hide=issues,contribs)
+
 
 
 
@@ -21,3 +22,8 @@
 - Email: **mukha0126@gmail.com**  
 - Telegram: [@kholikov0126](https://t.me/kholikov0126)  
 - LinkedIn: [Profilim](https://linkedin.com/in/username)
+
+<div style="display: flex; gap: 10px;">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mukha2601&show_icons=true&theme=radical&hide=issues,contribs" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukha2601&theme=radical" />
+</div>
