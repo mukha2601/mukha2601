@@ -1,5 +1,6 @@
 ## About Me
 - A fan of minimal designs
+- If you've seen Christopher Nolan's films, you're my twin
 
 ## Connect
 [![Email](https://img.shields.io/badge/Email-515757?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=515757)](mailto:mukha0126@gmail.com)
