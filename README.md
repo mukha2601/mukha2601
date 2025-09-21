@@ -14,6 +14,16 @@
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukha2601&show_icons=true&theme=radical)
+![Mukha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukha2601&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukha2601&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mukha2601&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=mukha2601&theme=radical&margin-w=15)
+![Mukha's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mukha2601&theme=radical)
+![Snake animation](https://github.com/YOUR_USERNAME/mukha2601/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
 
 
 ## Connect
