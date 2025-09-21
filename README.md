@@ -17,6 +17,6 @@
 
 
 ## 🌐 Bog‘lanish
-- 📫 Email: **youremail@gmail.com**  
-- 💬 Telegram: [@username](https://t.me/username)  
-- 💼 LinkedIn: [Profilim](https://linkedin.com/in/username)
+- Email: **mukha0126@gmail.com**  
+- Telegram: [@kholikov0126](https://t.me/kholikov0126)  
+- LinkedIn: [Profilim](https://linkedin.com/in/username)
