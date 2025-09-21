@@ -1,4 +1,5 @@
 ## About Me
+- Coding is magic, except instead of saying 'abracadabra', you use console.log
 - A fan of minimal designs
 - If you've seen Christopher Nolan's films, you're my twin
 - Good music can turn even the simplest day into a celebration
