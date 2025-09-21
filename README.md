@@ -12,11 +12,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukha2601&show_icons=true&theme=radical)
 
 
-## 🌐 Bog‘lanish
+## Connect
 - Email: **mukha0126@gmail.com**  
 - Telegram: [@kholikov0126](https://t.me/kholikov0126)  
 - LinkedIn: [Profilim](https://linkedin.com/in/username)
