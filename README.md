@@ -1,7 +1,10 @@
 ## About Me
 - A fan of minimal designs
 
-
+## Connect
+[![Email](https://img.shields.io/badge/Email-mukha0126%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukha0126@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kholikov0126)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
 
 ## Skills
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
@@ -13,10 +16,7 @@
 
 
 ## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukha2601&layout=compact&theme=radical) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukha2601&show_icons=true&theme=radical&hide=issues)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukha2601&show_icons=true&theme=radical&hide=issues) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukha2601&layout=compact&theme=radical) 
 
 
-## Connect
-[![Email](https://img.shields.io/badge/Email-mukha0126%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukha0126@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kholikov0126)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
+
