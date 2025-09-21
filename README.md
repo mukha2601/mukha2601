@@ -1,7 +1,6 @@
-## 🙎🏻‍♂️ Men haqimda
-- 🌱 Hozirda: **Nuxt 3** bilan ishlayapman  
-- 🎯 Maqsadim: zamonaviy, qulay va tezkor web ilovalar yaratish  
-- 💡 Qiziqishlarim: Frontend, UI/UX, Open Source loyihalar  
+## About Me
+- A fan of minimal designs
+
 
 
 ## 🛠 Texnologiyalar
