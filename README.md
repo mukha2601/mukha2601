@@ -1,11 +1,10 @@
 ## About Me
 - A fan of minimal designs
 - If you've seen Christopher Nolan's films, you're my twin
-- Yaxshi musiqa — eng oddiy kunni ham bayramga aylantiradi
-- Dark mode – bu tanlov emas, bu turmush tarzi
-- O‘zim bilan yolg‘iz qolishni qadrlayman
-- Har kuni “bugun erta uxlashim kerak” deb o‘ylayman
-- Elon Musk Marsga ketmoqchi, men esa faqat divandan turishni rejalashtiryapman
+- Good music can turn even the simplest day into a celebration
+- Dark mode isn’t a choice, it’s a lifestyle
+- I value being alone with myself
+- Every day I think, “tonight I should sleep early”
 
 ## Connect
 [![Email](https://img.shields.io/badge/Email-515757?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=515757)](mailto:mukha0126@gmail.com)
