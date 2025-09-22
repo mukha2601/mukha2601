@@ -6,7 +6,6 @@
 - Dark mode isn’t a choice, it’s a lifestyle
 - I value being alone with myself
 - Every day I think, “tonight I should sleep early”
-- If you haven’t listened to [Save Your Tears](https://youtu.be/LIIDh-qI9oI?si=qIOzJ_J2cXr_AJAH), an unexpected joy is still waiting for you
 
 ## Connect
 [![Email](https://img.shields.io/badge/Email-515757?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=515757)](mailto:mukha0126@gmail.com)
