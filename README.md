@@ -11,7 +11,6 @@
 ## Connect
 [![Email](https://img.shields.io/badge/Email-515757?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=515757)](mailto:mukha0126@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-515757?style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=515757)](https://t.me/kholikov0126)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-515757?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=515757)]
 
 ## Skills
 ![Vue](https://img.shields.io/badge/Vue.js-515757?style=for-the-badge&logo=vue.js&logoColor=FFFFFF&labelColor=515757)
